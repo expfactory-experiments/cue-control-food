@@ -1,6 +1,7 @@
 {
     "name": "Cue Control Food",
     "exp_id": "cue-control-food",
+    "description": "assess Cue Control using Food Stimuli, intended for within fmri",
     "cognitive_atlas_task_id": "tsk_4a57abb949e1a",
     "contributors": ["Jamie Li",
                      "Ian Eisenberg",
