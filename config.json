@@ -1,0 +1,18 @@
+[
+    {
+        "name": "Cue Control Food",
+        "exp_id": "cue-control-food",
+        "cognitive_atlas_task_id": "tsk_4a57abb949e1a",
+        "contributors": ["Jamie Li",
+                         "Ian Eisenberg",
+                         "Patrick Bissett",
+                         "Zeynep Enkavi",
+                         "Sadiv Parikh",
+                         "Vanessa Sochat",
+                         "Russell Poldrack"], 
+        "time":30,
+        "reference": "http://psycnet.apa.org/journals/xlm/37/2/392/",
+        "notes": "Condition refers to whether the trial is practice or high_freq/low_freq (the two test conditions) as well as whether it was a go or SS trial",    
+   }
+]
+
